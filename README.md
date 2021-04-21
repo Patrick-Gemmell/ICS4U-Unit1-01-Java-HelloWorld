@@ -1,1 +1,1 @@
-# ICS4U-Unit1-01-Java-HelloWorld
+# ICS4U-Unit1-01-JavaScript-HelloWorld
